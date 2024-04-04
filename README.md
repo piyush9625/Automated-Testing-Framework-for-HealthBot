@@ -1,2 +1,2 @@
-# healthcare-chatbot
-a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
+# Healthbot
+AI-powered chatbots that provide personalized health advice, answer medical questions, and assist users in scheduling appointments or refilling prescriptions.
